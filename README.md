@@ -2,7 +2,7 @@
 
 ### Requirements
 
-Make sure :contentReference[oaicite:0]{index=0} is installed on your computer.
+Make sure Bun.js is installed on your computer.
 
 Check Bun version:
 
